@@ -1,0 +1,10 @@
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\Ftp.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\Ftp.obj
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\Http.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\Http.obj
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\IpAddress.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\IpAddress.obj
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\Packet.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\Packet.obj
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\Socket.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\Socket.obj
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\SocketSelector.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\SocketSelector.obj
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\TcpListener.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\TcpListener.obj
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\TcpSocket.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\TcpSocket.obj
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\UdpSocket.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\UdpSocket.obj
+C:\LY2\build\_deps\sfml-src\src\SFML\Network\Win32\SocketImpl.cpp;C:\LY2\build\_deps\sfml-build\src\SFML\Network\sfml-network.dir\Debug\SocketImpl.obj

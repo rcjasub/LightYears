@@ -1,0 +1,14 @@
+# Target labels
+ box2d-populate
+# Source files and their labels
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/box2d-populate
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/48b32eeae917ee2e2fa62da402520e15/box2d-populate.rule
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/9cba40e60a74335a1d8082f79add225f/box2d-populate-complete.rule
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/cf430ab66b209e1efbefcf8042617573/box2d-populate-build.rule
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/cf430ab66b209e1efbefcf8042617573/box2d-populate-configure.rule
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/cf430ab66b209e1efbefcf8042617573/box2d-populate-download.rule
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/cf430ab66b209e1efbefcf8042617573/box2d-populate-install.rule
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/cf430ab66b209e1efbefcf8042617573/box2d-populate-mkdir.rule
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/cf430ab66b209e1efbefcf8042617573/box2d-populate-patch.rule
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/cf430ab66b209e1efbefcf8042617573/box2d-populate-test.rule
+C:/LY2/build/_deps/box2d-subbuild/CMakeFiles/cf430ab66b209e1efbefcf8042617573/box2d-populate-update.rule

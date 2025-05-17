@@ -1,0 +1,507 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <WindowsTargetPlatformVersion>10.0.26100.0</WindowsTargetPlatformVersion>
+    <Platform>x64</Platform>
+    <ProjectName>LightYearsGame</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v143</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\LY2\build\LightYearsGame\Debug\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">LightYearsGame.dir\Debug\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">LightYearsGame</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\LY2\build\LightYearsGame\Release\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">LightYearsGame.dir\Release\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='Release|x64'">LightYearsGame</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='Release|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='Release|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\LY2\build\LightYearsGame\MinSizeRel\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">LightYearsGame.dir\MinSizeRel\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">LightYearsGame</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">true</GenerateManifest>
+    <OutDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\LY2\build\LightYearsGame\RelWithDebInfo\</OutDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">LightYearsGame.dir\RelWithDebInfo\</IntDir>
+    <TargetName Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">LightYearsGame</TargetName>
+    <TargetExt Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">.exe</TargetExt>
+    <LinkIncremental Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</LinkIncremental>
+    <GenerateManifest Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">true</GenerateManifest>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>EnableFastChecks</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>Disabled</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>Disabled</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;B2_SHARED;CMAKE_INTDIR="Debug"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_DEBUG;_WINDOWS;B2_SHARED;CMAKE_INTDIR=\"Debug\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>	</Message>
+      <Command>setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/LY2/build/GameEngine/Debug C:/LY2/build/LightYearsGame/Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/LY2/LightYearsGame/assets C:/LY2/build/LightYearsGame/Debug/assets
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>..\GameEngine\Debug\GameEngine.lib;..\_deps\sfml-build\lib\Debug\sfml-graphics-d.lib;..\_deps\sfml-build\lib\Debug\sfml-window-d.lib;..\_deps\sfml-build\lib\Debug\sfml-audio-d.lib;..\_deps\sfml-build\lib\Debug\sfml-system-d.lib;..\_deps\box2d-build\bin\Debug\box2d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/LY2/build/LightYearsGame/Debug/LightYearsGame.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/LY2/build/LightYearsGame/Debug/LightYearsGame.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>AnySuitable</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;B2_SHARED;CMAKE_INTDIR="Release"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;B2_SHARED;CMAKE_INTDIR=\"Release\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>	</Message>
+      <Command>setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/LY2/build/GameEngine/Release C:/LY2/build/LightYearsGame/Release
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/LY2/LightYearsGame/assets C:/LY2/build/LightYearsGame/Release/assets
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>..\GameEngine\Release\GameEngine.lib;..\_deps\sfml-build\lib\Release\sfml-graphics.lib;..\_deps\sfml-build\lib\Release\sfml-window.lib;..\_deps\sfml-build\lib\Release\sfml-audio.lib;..\_deps\sfml-build\lib\Release\sfml-system.lib;..\_deps\box2d-build\bin\Release\box2d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/LY2/build/LightYearsGame/Release/LightYearsGame.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/LY2/build/LightYearsGame/Release/LightYearsGame.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MinSpace</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;B2_SHARED;CMAKE_INTDIR="MinSizeRel"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <DebugInformationFormat>
+      </DebugInformationFormat>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;B2_SHARED;CMAKE_INTDIR=\"MinSizeRel\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>	</Message>
+      <Command>setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/LY2/build/GameEngine/MinSizeRel C:/LY2/build/LightYearsGame/MinSizeRel
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/LY2/LightYearsGame/assets C:/LY2/build/LightYearsGame/MinSizeRel/assets
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>..\GameEngine\MinSizeRel\GameEngine.lib;..\_deps\sfml-build\lib\MinSizeRel\sfml-graphics.lib;..\_deps\sfml-build\lib\MinSizeRel\sfml-window.lib;..\_deps\sfml-build\lib\MinSizeRel\sfml-audio.lib;..\_deps\sfml-build\lib\MinSizeRel\sfml-system.lib;..\_deps\box2d-build\bin\MinSizeRel\box2d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>false</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/LY2/build/LightYearsGame/MinSizeRel/LightYearsGame.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/LY2/build/LightYearsGame/MinSizeRel/LightYearsGame.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <ClCompile>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <AssemblerListingLocation>$(IntDir)</AssemblerListingLocation>
+      <BasicRuntimeChecks>Default</BasicRuntimeChecks>
+      <DebugInformationFormat>ProgramDatabase</DebugInformationFormat>
+      <ExceptionHandling>Sync</ExceptionHandling>
+      <InlineFunctionExpansion>OnlyExplicitInline</InlineFunctionExpansion>
+      <LanguageStandard>stdcpp14</LanguageStandard>
+      <MinimalRebuild></MinimalRebuild>
+      <Optimization>MaxSpeed</Optimization>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <RuntimeLibrary>MultiThreadedDLL</RuntimeLibrary>
+      <SupportJustMyCode></SupportJustMyCode>
+      <UseFullPaths>false</UseFullPaths>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;B2_SHARED;CMAKE_INTDIR="RelWithDebInfo"</PreprocessorDefinitions>
+      <ObjectFileName>$(IntDir)</ObjectFileName>
+      <ScanSourceForModuleDependencies>false</ScanSourceForModuleDependencies>
+    </ClCompile>
+    <ResourceCompile>
+      <PreprocessorDefinitions>%(PreprocessorDefinitions);WIN32;_WINDOWS;NDEBUG;B2_SHARED;CMAKE_INTDIR=\"RelWithDebInfo\"</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ResourceCompile>
+    <Midl>
+      <AdditionalIncludeDirectories>C:\LY2\LightYearsGame\src;C:\LY2\LightYearsGame\include;C:\LY2\GameEngine\src;C:\LY2\build\_deps\sfml-src\include;C:\LY2\build\_deps\box2d-src\src\..\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+    <PostBuildEvent>
+      <Message>	</Message>
+      <Command>setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/LY2/build/GameEngine/RelWithDebInfo C:/LY2/build/LightYearsGame/RelWithDebInfo
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -E copy_directory C:/LY2/LightYearsGame/assets C:/LY2/build/LightYearsGame/RelWithDebInfo/assets
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+    </PostBuildEvent>
+    <Link>
+      <AdditionalDependencies>..\GameEngine\RelWithDebInfo\GameEngine.lib;..\_deps\sfml-build\lib\RelWithDebInfo\sfml-graphics.lib;..\_deps\sfml-build\lib\RelWithDebInfo\sfml-window.lib;..\_deps\sfml-build\lib\RelWithDebInfo\sfml-audio.lib;..\_deps\sfml-build\lib\RelWithDebInfo\sfml-system.lib;..\_deps\box2d-build\bin\RelWithDebInfo\box2d.lib;kernel32.lib;user32.lib;gdi32.lib;winspool.lib;shell32.lib;ole32.lib;oleaut32.lib;uuid.lib;comdlg32.lib;advapi32.lib</AdditionalDependencies>
+      <AdditionalLibraryDirectories>%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalOptions>%(AdditionalOptions) /machine:x64</AdditionalOptions>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <IgnoreSpecificDefaultLibraries>%(IgnoreSpecificDefaultLibraries)</IgnoreSpecificDefaultLibraries>
+      <ImportLibrary>C:/LY2/build/LightYearsGame/RelWithDebInfo/LightYearsGame.lib</ImportLibrary>
+      <ProgramDataBaseFile>C:/LY2/build/LightYearsGame/RelWithDebInfo/LightYearsGame.pdb</ProgramDataBaseFile>
+      <SubSystem>Console</SubSystem>
+    </Link>
+    <ProjectReference>
+      <LinkLibraryDependencies>false</LinkLibraryDependencies>
+    </ProjectReference>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\LY2\LightYearsGame\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/LY2/LightYearsGame/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/LY2 -BC:/LY2/build --check-stamp-file C:/LY2/build/LightYearsGame/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\LY2\LightYearsGame\config.h.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\LY2\build\LightYearsGame\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/LY2/LightYearsGame/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/LY2 -BC:/LY2/build --check-stamp-file C:/LY2/build/LightYearsGame/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\LY2\LightYearsGame\config.h.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\LY2\build\LightYearsGame\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/LY2/LightYearsGame/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/LY2 -BC:/LY2/build --check-stamp-file C:/LY2/build/LightYearsGame/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\LY2\LightYearsGame\config.h.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\LY2\build\LightYearsGame\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/LY2/LightYearsGame/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/LY2 -BC:/LY2/build --check-stamp-file C:/LY2/build/LightYearsGame/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\LY2\LightYearsGame\config.h.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\LY2\build\LightYearsGame\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\LY2\LightYearsGame\src\gameFramework\GameApplication.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\gameFramework\GameApplication.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\spaceship\Spaceship.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\spaceship\Spaceship.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\player\PlayerSpaceship.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\player\PlayerSpaceship.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\weapon\Shooter.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\weapon\Shooter.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\weapon\BulletShooter.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\weapon\BulletShooter.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\weapon\ThreeWayShooter.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\weapon\ThreeWayShooter.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\weapon\FrontalWiper.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\weapon\FrontalWiper.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\weapon\Bullet.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\weapon\Bullet.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\gameplay\HealthComponent.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\gameplay\HealthComponent.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\VFX\Explosion.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\VFX\Explosion.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\EnemySpaceship.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\EnemySpaceship.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\Vanguard.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\Vanguard.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\VanguardStage.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\VanguardStage.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\TwinBlade.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\TwinBlade.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\UFO.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\UFO.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\UFOStage.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\UFOStage.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\Hexagon.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\Hexagon.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\HexagonStage.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\HexagonStage.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\TwinBladeStage.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\TwinBladeStage.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\ChaosStage.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\ChaosStage.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\Boss.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\Boss.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Enemy\BossStage.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Enemy\BossStage.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Level\GameLevelOne.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Level\GameLevelOne.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\Level\MainMenuLevel.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\Level\MainMenuLevel.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\player\Reward.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\player\Reward.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\player\Player.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\player\Player.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\widgets\GameplayHUD.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\widgets\GameplayHUD.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\widgets\MainMenuHUD.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\widgets\MainMenuHUD.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\src\player\PlayerManager.hpp" />
+    <ClCompile Include="C:\LY2\LightYearsGame\src\player\PlayerManager.cpp" />
+    <ClInclude Include="C:\LY2\LightYearsGame\include\config.h" />
+  </ItemGroup>
+  <ItemGroup />
+  <ItemGroup>
+    <ProjectReference Include="C:\LY2\build\ZERO_CHECK.vcxproj">
+      <Project>{3050CE55-BF27-3BF4-B453-7F41D10A5952}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\LY2\build\GameEngine\GameEngine.vcxproj">
+      <Project>{5601571F-2001-3F89-8BDF-3A73D0B91458}</Project>
+      <Name>GameEngine</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\LY2\build\_deps\box2d-build\src\box2d.vcxproj">
+      <Project>{A788BCE3-3FDA-3D32-B9BA-86E4DE695643}</Project>
+      <Name>box2d</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\LY2\build\_deps\sfml-build\src\SFML\Audio\sfml-audio.vcxproj">
+      <Project>{A3945BF8-A2C5-3339-8762-4FDB60A5316C}</Project>
+      <Name>sfml-audio</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\LY2\build\_deps\sfml-build\src\SFML\Graphics\sfml-graphics.vcxproj">
+      <Project>{C39B5BFA-349C-325F-AF04-FC70F734A443}</Project>
+      <Name>sfml-graphics</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\LY2\build\_deps\sfml-build\src\SFML\System\sfml-system.vcxproj">
+      <Project>{B24F4C35-660E-3FE8-B550-461780D699B9}</Project>
+      <Name>sfml-system</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\LY2\build\_deps\sfml-build\src\SFML\Window\sfml-window.vcxproj">
+      <Project>{F8C5B330-D71F-3C1F-BE71-9D903DEA5D99}</Project>
+      <Name>sfml-window</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

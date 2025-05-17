@@ -1,0 +1,15 @@
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\context.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\context.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\init.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\init.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\input.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\input.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\monitor.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\monitor.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\vulkan.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\vulkan.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\window.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\window.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\win32_init.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\win32_init.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\win32_joystick.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\win32_joystick.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\win32_monitor.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\win32_monitor.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\win32_time.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\win32_time.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\win32_thread.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\win32_thread.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\win32_window.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\win32_window.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\wgl_context.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\wgl_context.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\egl_context.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\egl_context.obj
+C:\LY2\build\_deps\box2d-src\extern\glfw\src\osmesa_context.c;C:\LY2\build\_deps\box2d-build\extern\glfw\glfw.dir\Debug\osmesa_context.obj

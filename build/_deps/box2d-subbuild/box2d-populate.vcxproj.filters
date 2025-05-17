@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\cf430ab66b209e1efbefcf8042617573\box2d-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\cf430ab66b209e1efbefcf8042617573\box2d-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\cf430ab66b209e1efbefcf8042617573\box2d-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\cf430ab66b209e1efbefcf8042617573\box2d-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\cf430ab66b209e1efbefcf8042617573\box2d-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\cf430ab66b209e1efbefcf8042617573\box2d-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\cf430ab66b209e1efbefcf8042617573\box2d-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\cf430ab66b209e1efbefcf8042617573\box2d-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\9cba40e60a74335a1d8082f79add225f\box2d-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\48b32eeae917ee2e2fa62da402520e15\box2d-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\LY2\build\_deps\box2d-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\LY2\build\_deps\box2d-subbuild\CMakeFiles\box2d-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{24D4C9ED-0142-3D3D-84D6-4C0B35546982}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

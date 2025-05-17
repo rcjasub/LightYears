@@ -1,0 +1,14 @@
+# Target labels
+ sfml-populate
+# Source files and their labels
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/f13c5a517a0f3add6a220d6a60a1dc6d/sfml-populate.rule
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/57bd52f2e7bbf97df5aa5603c74ac6bc/sfml-populate-complete.rule
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-build.rule
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-configure.rule
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-download.rule
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-install.rule
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-mkdir.rule
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-patch.rule
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-test.rule
+C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-update.rule

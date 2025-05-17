@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\LY2\\build\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameApplication.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:13:42.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "World.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\World.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\World.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\World.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\World.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:13:37.758Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

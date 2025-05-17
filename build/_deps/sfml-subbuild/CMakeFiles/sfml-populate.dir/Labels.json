@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/sfml-populate"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/f13c5a517a0f3add6a220d6a60a1dc6d/sfml-populate.rule"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/57bd52f2e7bbf97df5aa5603c74ac6bc/sfml-populate-complete.rule"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-build.rule"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-configure.rule"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-download.rule"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-install.rule"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-patch.rule"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-test.rule"
+		},
+		{
+			"file" : "C:/LY2/build/_deps/sfml-subbuild/CMakeFiles/affc7800e3792f832630dc7cd76a8358/sfml-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"sfml-populate"
+		],
+		"name" : "sfml-populate"
+	}
+}
