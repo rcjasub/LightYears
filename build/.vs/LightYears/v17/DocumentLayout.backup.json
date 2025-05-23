@@ -6,7 +6,298 @@
       "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\Boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\TimerManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\PhysicsSystem.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\World.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\Widget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\gameplay\\WaitStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\ValueGuage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\TimerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\TextWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\PhysicsSystem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\VFX\\Particle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\MathUtility.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\ImageWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\HUD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\gameplay\\GameStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\EntryPoint.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Delegate.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Core.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\Button.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\BackdropActor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\AssetManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Actor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\World.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\Widget.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\gameplay\\WaitStage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\ValueGuage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\TextWidget.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\VFX\\Particle.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Object.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\ImageWidget.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\widgets\\HUD.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\EntryPoint.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Delegate.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Core.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\BackgroundLayer.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\BackdropActor.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\AssetManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Application.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\src\\framework\\Actor.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\VanguardStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\Vanguard.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\UFOStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\UFO.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBladeStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBlade.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\ThreeWayShooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\spaceship\\Spaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\Shooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\player\\Reward.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\player\\PlayerSpaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\player\\PlayerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\player\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Level\\MainMenuLevel.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\widgets\\MainMenuHUD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\HexagonStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\Hexagon.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\gameplay\\HealthComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\widgets\\GameplayHUD.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Level\\GameLevelOne.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\FrontalWiper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\VFX\\Explosion.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\EnemySpaceship.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\ChaosStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\BulletShooter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\Bullet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\BossStage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\VanguardStage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\Vanguard.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\UFOStage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\UFO.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBladeStage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBlade.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\ThreeWayShooter.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\spaceship\\Spaceship.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\player\\Reward.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\Shooter.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\player\\PlayerSpaceship.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\player\\PlayerManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\player\\Player.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Level\\MainMenuLevel.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\gameFramework\\GameApplication.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\VFX\\Explosion.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\widgets\\GameplayHUD.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Level\\GameLevelOne.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\gameplay\\HealthComponent.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\Hexagon.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\HexagonStage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\widgets\\MainMenuHUD.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\FrontalWiper.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\EnemySpaceship.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\ChaosStage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\BulletShooter.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\weapon\\Bullet.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\BossStage.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF56C5E7-E41B-355C-A044-94BFBD48FCC6}|LightYearsGame\\LightYearsGame.vcxproj|C:\\LY2\\LightYearsGame\\src\\Enemy\\Boss.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5601571F-2001-3F89-8BDF-3A73D0B91458}|GameEngine\\GameEngine.vcxproj|C:\\LY2\\GameEngine\\CMakeLists.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -16,7 +307,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 18,
           "Children": [
             {
               "$type": "Bookmark",
@@ -40,29 +331,1192 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WaitStage.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\gameplay\\WaitStage.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\gameplay\\WaitStage.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\gameplay\\WaitStage.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\gameplay\\WaitStage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:01:09.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ValueGuage.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\ValueGuage.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\ValueGuage.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\ValueGuage.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\ValueGuage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:01:04.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimerManager.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\TimerManager.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\TimerManager.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\TimerManager.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\TimerManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:01:02.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextWidget.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\TextWidget.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\TextWidget.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\TextWidget.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\TextWidget.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:56.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PhysicsSystem.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\PhysicsSystem.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\PhysicsSystem.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\PhysicsSystem.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\PhysicsSystem.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:48.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Particle.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\VFX\\Particle.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\VFX\\Particle.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\VFX\\Particle.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\VFX\\Particle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:38.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Object.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Object.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Object.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Object.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:38.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MathUtility.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\MathUtility.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\MathUtility.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\MathUtility.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\MathUtility.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:35.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HUD.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\HUD.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\HUD.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\HUD.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\HUD.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:29.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ImageWidget.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\ImageWidget.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\ImageWidget.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\ImageWidget.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\ImageWidget.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:28.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GameStage.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\gameplay\\GameStage.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\gameplay\\GameStage.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\gameplay\\GameStage.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\gameplay\\GameStage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:21.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhysicsSystem.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\PhysicsSystem.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\PhysicsSystem.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\PhysicsSystem.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\PhysicsSystem.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:59:01.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TimerManager.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\TimerManager.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\TimerManager.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\TimerManager.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\TimerManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:59:16.626Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "GameApplication.cpp",
               "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp",
               "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp",
               "ToolTip": "C:\\LY2\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp",
               "RelativeToolTip": "..\\LightYearsGame\\src\\gameFramework\\GameApplication.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-17T03:13:42.717Z",
+              "WhenOpened": "2025-05-17T02:55:52.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Boss.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Boss.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\Boss.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Boss.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\Boss.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:36:45.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Widget.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\Widget.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\Widget.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\Widget.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\Widget.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:01:13.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "World.cpp",
               "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\World.cpp",
               "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\World.cpp",
               "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\World.cpp",
               "RelativeToolTip": "..\\GameEngine\\src\\framework\\World.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-05-17T03:13:37.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T03:01:18.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EntryPoint.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\EntryPoint.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\EntryPoint.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\EntryPoint.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\EntryPoint.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:22.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Delegate.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Delegate.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Delegate.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Delegate.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Delegate.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:19.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Core.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Core.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Core.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Core.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Core.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:17.357Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Button.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\Button.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\Button.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\Button.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\Button.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T03:00:13.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AssetManager.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\AssetManager.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\AssetManager.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\AssetManager.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\AssetManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:59:58.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BackdropActor.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\BackdropActor.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\BackdropActor.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\BackdropActor.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\BackdropActor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:59:57.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Application.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Application.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Application.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Application.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:59:49.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Actor.cpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Actor.cpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Actor.cpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Actor.cpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Actor.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:59:40.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "World.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\World.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\World.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\World.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\World.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:59:29.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Widget.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\Widget.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\Widget.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\Widget.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\Widget.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:59:27.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WaitStage.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\gameplay\\WaitStage.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\gameplay\\WaitStage.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\gameplay\\WaitStage.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\gameplay\\WaitStage.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:59:25.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ValueGuage.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\ValueGuage.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\ValueGuage.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\ValueGuage.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\ValueGuage.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:59:22.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TextWidget.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\TextWidget.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\TextWidget.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\TextWidget.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\TextWidget.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:59:07.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Particle.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\VFX\\Particle.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\VFX\\Particle.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\VFX\\Particle.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\VFX\\Particle.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:59.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Object.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Object.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Object.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Object.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Object.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:55.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ImageWidget.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\ImageWidget.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\ImageWidget.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\ImageWidget.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\ImageWidget.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:49.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HUD.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\widgets\\HUD.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\widgets\\HUD.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\widgets\\HUD.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\widgets\\HUD.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:47.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "EntryPoint.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\EntryPoint.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\EntryPoint.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\EntryPoint.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\EntryPoint.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:46.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Delegate.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Delegate.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Delegate.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Delegate.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Delegate.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:46.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Core.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Core.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Core.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Core.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Core.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:44.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "BackgroundLayer.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\BackgroundLayer.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\BackgroundLayer.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\BackgroundLayer.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\BackgroundLayer.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:43.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "BackdropActor.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\BackdropActor.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\BackdropActor.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\BackdropActor.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\BackdropActor.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:42.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AssetManager.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\AssetManager.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\AssetManager.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\AssetManager.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\AssetManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:41.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Application.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Application.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Application.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Application.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Application.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:58:38.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "VanguardStage.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\VanguardStage.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\VanguardStage.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\VanguardStage.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\VanguardStage.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:58:24.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Vanguard.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Vanguard.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\Vanguard.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Vanguard.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\Vanguard.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:58:20.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UFOStage.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\UFOStage.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\UFOStage.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\UFOStage.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\UFOStage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:58:13.051Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "UFO.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\UFO.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\UFO.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\UFO.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\UFO.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:58:09.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "TwinBladeStage.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBladeStage.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\TwinBladeStage.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBladeStage.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\TwinBladeStage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:58:03.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "TwinBlade.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBlade.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\TwinBlade.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBlade.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\TwinBlade.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:57:59.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Spaceship.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\spaceship\\Spaceship.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\spaceship\\Spaceship.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\spaceship\\Spaceship.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\spaceship\\Spaceship.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:57:48.718Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "ThreeWayShooter.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\ThreeWayShooter.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\ThreeWayShooter.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\ThreeWayShooter.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\ThreeWayShooter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:57:48.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Shooter.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\Shooter.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\Shooter.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\Shooter.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\Shooter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:57:45.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Reward.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\player\\Reward.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\player\\Reward.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\player\\Reward.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\player\\Reward.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:57:36.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "PlayerSpaceship.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\player\\PlayerSpaceship.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\player\\PlayerSpaceship.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\player\\PlayerSpaceship.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\player\\PlayerSpaceship.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:57:15.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "PlayerManager.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\player\\PlayerManager.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\player\\PlayerManager.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\player\\PlayerManager.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\player\\PlayerManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:57:12.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\player\\Player.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\player\\Player.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\player\\Player.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\player\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:57:05.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "MainMenuLevel.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Level\\MainMenuLevel.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Level\\MainMenuLevel.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Level\\MainMenuLevel.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Level\\MainMenuLevel.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:57:00.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Actor.hpp",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\src\\framework\\Actor.hpp",
+              "RelativeDocumentMoniker": "..\\GameEngine\\src\\framework\\Actor.hpp",
+              "ToolTip": "C:\\LY2\\GameEngine\\src\\framework\\Actor.hpp",
+              "RelativeToolTip": "..\\GameEngine\\src\\framework\\Actor.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T01:55:38.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MainMenuHUD.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\widgets\\MainMenuHUD.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\widgets\\MainMenuHUD.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\widgets\\MainMenuHUD.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\widgets\\MainMenuHUD.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:56:57.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "HexagonStage.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\HexagonStage.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\HexagonStage.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\HexagonStage.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\HexagonStage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:56:51.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "Hexagon.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Hexagon.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\Hexagon.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Hexagon.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\Hexagon.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:56:45.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "HealthComponent.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\gameplay\\HealthComponent.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\gameplay\\HealthComponent.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\gameplay\\HealthComponent.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\gameplay\\HealthComponent.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:56:40.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "GameLevelOne.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Level\\GameLevelOne.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Level\\GameLevelOne.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Level\\GameLevelOne.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Level\\GameLevelOne.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:56:00.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "GameplayHUD.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\widgets\\GameplayHUD.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\widgets\\GameplayHUD.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\widgets\\GameplayHUD.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\widgets\\GameplayHUD.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:55:59.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "FrontalWiper.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\FrontalWiper.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\FrontalWiper.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\FrontalWiper.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\FrontalWiper.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:55:48.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Explosion.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\VFX\\Explosion.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\VFX\\Explosion.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\VFX\\Explosion.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\VFX\\Explosion.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:55:39.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "ChaosStage.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\ChaosStage.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\ChaosStage.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\ChaosStage.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\ChaosStage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:37:07.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "EnemySpaceship.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\EnemySpaceship.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\EnemySpaceship.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\EnemySpaceship.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\EnemySpaceship.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:37:03.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "BulletShooter.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\BulletShooter.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\BulletShooter.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\BulletShooter.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\BulletShooter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:36:58.538Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Bullet.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\Bullet.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\Bullet.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\Bullet.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\Bullet.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:36:55.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "BossStage.cpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\BossStage.cpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\BossStage.cpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\BossStage.cpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\BossStage.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T02:36:49.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "VanguardStage.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\VanguardStage.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\VanguardStage.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\VanguardStage.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\VanguardStage.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:36:33.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Vanguard.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Vanguard.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\Vanguard.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Vanguard.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\Vanguard.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:36:29.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "UFOStage.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\UFOStage.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\UFOStage.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\UFOStage.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\UFOStage.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:36:26.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "UFO.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\UFO.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\UFO.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\UFO.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\UFO.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:36:24.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "TwinBladeStage.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBladeStage.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\TwinBladeStage.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBladeStage.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\TwinBladeStage.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:36:20.989Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "TwinBlade.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBlade.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\TwinBlade.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\TwinBlade.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\TwinBlade.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:36:18.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "ThreeWayShooter.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\ThreeWayShooter.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\ThreeWayShooter.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\ThreeWayShooter.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\ThreeWayShooter.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:36:14.894Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "Spaceship.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\spaceship\\Spaceship.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\spaceship\\Spaceship.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\spaceship\\Spaceship.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\spaceship\\Spaceship.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:35:08.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "Shooter.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\Shooter.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\Shooter.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\Shooter.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\Shooter.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:35:05.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "Reward.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\player\\Reward.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\player\\Reward.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\player\\Reward.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\player\\Reward.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:35:00.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "PlayerSpaceship.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\player\\PlayerSpaceship.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\player\\PlayerSpaceship.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\player\\PlayerSpaceship.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\player\\PlayerSpaceship.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:56.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "PlayerManager.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\player\\PlayerManager.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\player\\PlayerManager.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\player\\PlayerManager.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\player\\PlayerManager.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:51.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "Player.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\player\\Player.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\player\\Player.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\player\\Player.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\player\\Player.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:48.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "MainMenuLevel.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Level\\MainMenuLevel.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Level\\MainMenuLevel.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Level\\MainMenuLevel.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Level\\MainMenuLevel.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:45.292Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 90,
+              "Title": "MainMenuHUD.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\widgets\\MainMenuHUD.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\widgets\\MainMenuHUD.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\widgets\\MainMenuHUD.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\widgets\\MainMenuHUD.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:40.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 89,
+              "Title": "HexagonStage.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\HexagonStage.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\HexagonStage.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\HexagonStage.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\HexagonStage.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:35.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 88,
+              "Title": "Hexagon.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Hexagon.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\Hexagon.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Hexagon.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\Hexagon.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:33.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "HealthComponent.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\gameplay\\HealthComponent.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\gameplay\\HealthComponent.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\gameplay\\HealthComponent.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\gameplay\\HealthComponent.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:30.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "GameplayHUD.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\widgets\\GameplayHUD.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\widgets\\GameplayHUD.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\widgets\\GameplayHUD.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\widgets\\GameplayHUD.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:23.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "GameLevelOne.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Level\\GameLevelOne.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Level\\GameLevelOne.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Level\\GameLevelOne.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Level\\GameLevelOne.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:17.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "GameApplication.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\gameFramework\\GameApplication.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\gameFramework\\GameApplication.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\gameFramework\\GameApplication.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\gameFramework\\GameApplication.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:12.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "Explosion.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\VFX\\Explosion.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\VFX\\Explosion.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\VFX\\Explosion.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\VFX\\Explosion.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:33:58.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 91,
+              "Title": "FrontalWiper.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\FrontalWiper.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\FrontalWiper.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\FrontalWiper.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\FrontalWiper.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:34:08.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 92,
+              "Title": "EnemySpaceship.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\EnemySpaceship.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\EnemySpaceship.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\EnemySpaceship.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\EnemySpaceship.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:33:58.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 93,
+              "Title": "ChaosStage.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\ChaosStage.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\ChaosStage.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\ChaosStage.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\ChaosStage.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:33:52.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 95,
+              "Title": "Bullet.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\Bullet.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\Bullet.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\Bullet.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\Bullet.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:33:46.147Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 94,
+              "Title": "BulletShooter.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\weapon\\BulletShooter.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\weapon\\BulletShooter.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\weapon\\BulletShooter.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\weapon\\BulletShooter.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:33:45.673Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 96,
+              "Title": "BossStage.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\BossStage.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\BossStage.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\BossStage.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\BossStage.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T02:33:39.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 98,
+              "Title": "CMakeLists.txt",
+              "DocumentMoniker": "C:\\LY2\\GameEngine\\CMakeLists.txt",
+              "RelativeDocumentMoniker": "..\\GameEngine\\CMakeLists.txt",
+              "ToolTip": "C:\\LY2\\GameEngine\\CMakeLists.txt",
+              "RelativeToolTip": "..\\GameEngine\\CMakeLists.txt",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-17T01:55:08.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 97,
+              "Title": "Boss.hpp",
+              "DocumentMoniker": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Boss.hpp",
+              "RelativeDocumentMoniker": "..\\LightYearsGame\\src\\Enemy\\Boss.hpp",
+              "ToolTip": "C:\\LY2\\LightYearsGame\\src\\Enemy\\Boss.hpp",
+              "RelativeToolTip": "..\\LightYearsGame\\src\\Enemy\\Boss.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T01:53:53.975Z"
             }
           ]
         }
